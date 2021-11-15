@@ -10,7 +10,7 @@
 
 비즈니스 문제를 바라보는 시각을 넓게하고 문제를 더 효율적으로 처리하는 사람이 되는 것을 목표하고 있습니다.
 
-
+감사합니다
 
 <!--
 **yjw8459/yjw8459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
