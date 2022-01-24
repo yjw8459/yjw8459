@@ -9,17 +9,19 @@
 
 관심분야
 - Java
-  - Spring
+  - Spring Framework
+  - Spring Boot
   - JPA
 
 
 - Javascript
   - React
   - Nodejs
-
+  - JQuery
 
 - SQL
-
+  - Oracle
+  - Mysql
 
 감사합니다
 
