@@ -1,3 +1,9 @@
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+  
+  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
+  
 🙇‍♂️ 반갑습니다.
 
 #### 머리는 차갑게, 가슴은 뜨겁게 !
@@ -25,6 +31,7 @@
 
 감사합니다
 
+  </div>
 <!--
 **yjw8459/yjw8459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
