@@ -4,6 +4,8 @@
   
   <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
   
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjw8459)](https://github.com/yjw8459/github-readme-stats)
+  
 🙇‍♂️ 반갑습니다.
 
 #### 머리는 차갑게, 가슴은 뜨겁게 !
