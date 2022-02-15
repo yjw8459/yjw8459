@@ -2,6 +2,18 @@
   
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
   
+  <img src="https://img.shields.io/badge/Java-배지컬러코드?style=flat-square&logo=#007396&logoColor=white"/>
+  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
   <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjw8459)](https://yjw8459.github.io/)
