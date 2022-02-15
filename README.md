@@ -2,19 +2,14 @@
   
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
   
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=#Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
-  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
-  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
-  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
-  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
-  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
-  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
-  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
-  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
-  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
-  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
-  <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjw8459)](https://yjw8459.github.io/)
   
